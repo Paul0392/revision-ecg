@@ -1,0 +1,8 @@
+{
+  "name": "Révision ECG",
+  "short_name": "ECG Révision",
+  "start_url": "/revision-ecg/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b2d42"
+}
